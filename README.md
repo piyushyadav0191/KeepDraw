@@ -22,7 +22,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next14-miro-clone.git
+git clone https://github.com/piyushyadav0191/KeepDraw.git
 ```
 
 ### Install packages
